@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Leccion_1_Kotlin"
 include(":app")
 include(":leccion1")
+include(":Leccion_2")
