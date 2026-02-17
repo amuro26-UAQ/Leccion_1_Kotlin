@@ -64,7 +64,7 @@ fun step3(){
 
 }
 
-fun step4{
+fun step4(){
     val numberOfFish = 5
     val numberOfPlants = 12
     println("I have {numberOfFish numberOfPlants} fish and plants")
