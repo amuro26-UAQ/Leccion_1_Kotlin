@@ -23,3 +23,4 @@ rootProject.name = "Leccion_1_Kotlin"
 include(":app")
 include(":leccion1")
 include(":Leccion_2")
+include(":Lambdas_y_funciones_de_orden_superior")

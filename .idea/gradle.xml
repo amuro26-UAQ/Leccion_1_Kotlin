@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Lambdas_y_funciones_de_orden_superior" />
             <option value="$PROJECT_DIR$/Leccion_2" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/leccion1" />
