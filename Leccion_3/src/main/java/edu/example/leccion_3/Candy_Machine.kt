@@ -75,7 +75,7 @@ fun sellProduct(product: Dispenser, cRegister: CashRegister){
         coinsInsterted = 0
 
         while (coinsRequired>0){
-            println("Please deposit ${coinsRequired} cents")1
+            println("Please deposit ${coinsRequired} cents")
             coinsInsterted=coinsInsterted + readln().toInt()
             coinsRequired = price - coinsInsterted
         }
@@ -113,5 +113,7 @@ fun main(){
 
             else -> println("Invalid Selection")
         }
+
+        choice= 9
     }
 }
